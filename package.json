@@ -2,7 +2,8 @@
   "name": "igz-devops-program-multi-semantic-release",
   "private": true,
   "workspaces": [
-    "package1/" 
+    "package1/",
+    "package2/"
   ],
   "dependencies": {
     "@qiwi/multi-semantic-release": "^6.5.1"
